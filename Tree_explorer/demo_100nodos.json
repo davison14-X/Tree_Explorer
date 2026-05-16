@@ -1,0 +1,1082 @@
+{
+  "nombre": "proyecto_demo",
+  "tipo": "carpeta",
+  "tamaño": 969132792,
+  "fecha_modificacion": "2024-02-15T00:07:44",
+  "ruta": "/proyecto_demo",
+  "extension": "",
+  "hijos": [
+    {
+      "nombre": "README.md",
+      "tipo": "archivo",
+      "tamaño": 12263,
+      "fecha_modificacion": "2024-12-18T21:58:51",
+      "ruta": "/proyecto_demo/README.md",
+      "extension": "md",
+      "hijos": []
+    },
+    {
+      "nombre": "requirements.txt",
+      "tipo": "archivo",
+      "tamaño": 4433,
+      "fecha_modificacion": "2024-02-14T16:43:37",
+      "ruta": "/proyecto_demo/requirements.txt",
+      "extension": "txt",
+      "hijos": []
+    },
+    {
+      "nombre": "Dockerfile",
+      "tipo": "archivo",
+      "tamaño": 549,
+      "fecha_modificacion": "2024-05-07T13:46:55",
+      "ruta": "/proyecto_demo/Dockerfile",
+      "extension": "",
+      "hijos": []
+    },
+    {
+      "nombre": "docker-compose.yml",
+      "tipo": "archivo",
+      "tamaño": 745,
+      "fecha_modificacion": "2025-07-19T10:40:27",
+      "ruta": "/proyecto_demo/docker-compose.yml",
+      "extension": "yml",
+      "hijos": []
+    },
+    {
+      "nombre": "setup.py",
+      "tipo": "archivo",
+      "tamaño": 41698,
+      "fecha_modificacion": "2025-09-25T13:10:00",
+      "ruta": "/proyecto_demo/setup.py",
+      "extension": "py",
+      "hijos": []
+    },
+    {
+      "nombre": ".gitignore",
+      "tipo": "archivo",
+      "tamaño": 591,
+      "fecha_modificacion": "2024-07-15T02:31:56",
+      "ruta": "/proyecto_demo/.gitignore",
+      "extension": "",
+      "hijos": []
+    },
+    {
+      "nombre": "CHANGELOG.md",
+      "tipo": "archivo",
+      "tamaño": 2001,
+      "fecha_modificacion": "2025-11-08T08:17:51",
+      "ruta": "/proyecto_demo/CHANGELOG.md",
+      "extension": "md",
+      "hijos": []
+    },
+    {
+      "nombre": "LICENSE.txt",
+      "tipo": "archivo",
+      "tamaño": 4841,
+      "fecha_modificacion": "2024-03-22T08:28:32",
+      "ruta": "/proyecto_demo/LICENSE.txt",
+      "extension": "txt",
+      "hijos": []
+    },
+    {
+      "nombre": "Makefile",
+      "tipo": "archivo",
+      "tamaño": 887,
+      "fecha_modificacion": "2024-04-13T13:50:23",
+      "ruta": "/proyecto_demo/Makefile",
+      "extension": "",
+      "hijos": []
+    },
+    {
+      "nombre": "pyproject.toml",
+      "tipo": "archivo",
+      "tamaño": 146738,
+      "fecha_modificacion": "2025-04-09T23:08:40",
+      "ruta": "/proyecto_demo/pyproject.toml",
+      "extension": "toml",
+      "hijos": []
+    },
+    {
+      "nombre": ".env",
+      "tipo": "archivo",
+      "tamaño": 854,
+      "fecha_modificacion": "2025-01-08T05:55:19",
+      "ruta": "/proyecto_demo/.env",
+      "extension": "",
+      "hijos": []
+    },
+    {
+      "nombre": "pytest.ini",
+      "tipo": "archivo",
+      "tamaño": 195081,
+      "fecha_modificacion": "2024-12-29T07:37:40",
+      "ruta": "/proyecto_demo/pytest.ini",
+      "extension": "ini",
+      "hijos": []
+    },
+    {
+      "nombre": "src",
+      "tipo": "carpeta",
+      "tamaño": 630602000,
+      "fecha_modificacion": "2024-03-01T08:20:07",
+      "ruta": "/proyecto_demo/src",
+      "extension": "",
+      "hijos": [
+        {
+          "nombre": "report.pdf",
+          "tipo": "archivo",
+          "tamaño": 2289572,
+          "fecha_modificacion": "2025-12-19T23:35:39",
+          "ruta": "/proyecto_demo/src/report.pdf",
+          "extension": "pdf",
+          "hijos": []
+        },
+        {
+          "nombre": "style.css",
+          "tipo": "archivo",
+          "tamaño": 5679,
+          "fecha_modificacion": "2025-09-15T23:07:07",
+          "ruta": "/proyecto_demo/src/style.css",
+          "extension": "css",
+          "hijos": []
+        },
+        {
+          "nombre": "logo.png",
+          "tipo": "archivo",
+          "tamaño": 368903,
+          "fecha_modificacion": "2025-06-30T08:54:47",
+          "ruta": "/proyecto_demo/src/logo.png",
+          "extension": "png",
+          "hijos": []
+        },
+        {
+          "nombre": "analysis.ipynb",
+          "tipo": "archivo",
+          "tamaño": 95669,
+          "fecha_modificacion": "2025-04-18T13:48:55",
+          "ruta": "/proyecto_demo/src/analysis.ipynb",
+          "extension": "ipynb",
+          "hijos": []
+        },
+        {
+          "nombre": "utils.py",
+          "tipo": "archivo",
+          "tamaño": 18191,
+          "fecha_modificacion": "2025-10-17T20:16:40",
+          "ruta": "/proyecto_demo/src/utils.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "test_main.py",
+          "tipo": "archivo",
+          "tamaño": 14892,
+          "fecha_modificacion": "2025-12-02T11:48:24",
+          "ruta": "/proyecto_demo/src/test_main.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "models.py",
+          "tipo": "archivo",
+          "tamaño": 4165,
+          "fecha_modificacion": "2024-08-22T01:10:07",
+          "ruta": "/proyecto_demo/src/models.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "banner.jpg",
+          "tipo": "archivo",
+          "tamaño": 6803213,
+          "fecha_modificacion": "2024-11-19T14:36:21",
+          "ruta": "/proyecto_demo/src/banner.jpg",
+          "extension": "jpg",
+          "hijos": []
+        },
+        {
+          "nombre": "script.js",
+          "tipo": "archivo",
+          "tamaño": 71186,
+          "fecha_modificacion": "2024-03-08T07:40:53",
+          "ruta": "/proyecto_demo/src/script.js",
+          "extension": "js",
+          "hijos": []
+        },
+        {
+          "nombre": "serializers.py",
+          "tipo": "archivo",
+          "tamaño": 37670,
+          "fecha_modificacion": "2024-11-18T07:44:29",
+          "ruta": "/proyecto_demo/src/serializers.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "logs",
+          "tipo": "carpeta",
+          "tamaño": 434249331,
+          "fecha_modificacion": "2025-04-09T00:07:05",
+          "ruta": "/proyecto_demo/src/logs",
+          "extension": "",
+          "hijos": [
+            {
+              "nombre": "Dockerfile",
+              "tipo": "archivo",
+              "tamaño": 271,
+              "fecha_modificacion": "2024-05-22T08:58:45",
+              "ruta": "/proyecto_demo/src/logs/Dockerfile",
+              "extension": "",
+              "hijos": []
+            },
+            {
+              "nombre": "middleware.py",
+              "tipo": "archivo",
+              "tamaño": 49323,
+              "fecha_modificacion": "2025-07-28T19:37:24",
+              "ruta": "/proyecto_demo/src/logs/middleware.py",
+              "extension": "py",
+              "hijos": []
+            },
+            {
+              "nombre": "schema.json",
+              "tipo": "archivo",
+              "tamaño": 17419,
+              "fecha_modificacion": "2025-08-21T15:35:55",
+              "ruta": "/proyecto_demo/src/logs/schema.json",
+              "extension": "json",
+              "hijos": []
+            },
+            {
+              "nombre": "utils",
+              "tipo": "carpeta",
+              "tamaño": 415162805,
+              "fecha_modificacion": "2025-11-27T15:22:13",
+              "ruta": "/proyecto_demo/src/logs/utils",
+              "extension": "",
+              "hijos": [
+                {
+                  "nombre": "foto_viaje.jpg",
+                  "tipo": "archivo",
+                  "tamaño": 4324216,
+                  "fecha_modificacion": "2025-05-20T03:18:35",
+                  "ruta": "/proyecto_demo/src/logs/utils/foto_viaje.jpg",
+                  "extension": "jpg",
+                  "hijos": []
+                },
+                {
+                  "nombre": "video_intro.mp4",
+                  "tipo": "archivo",
+                  "tamaño": 410757457,
+                  "fecha_modificacion": "2024-02-18T03:59:31",
+                  "ruta": "/proyecto_demo/src/logs/utils/video_intro.mp4",
+                  "extension": "mp4",
+                  "hijos": []
+                },
+                {
+                  "nombre": "migrations.sql",
+                  "tipo": "archivo",
+                  "tamaño": 81132,
+                  "fecha_modificacion": "2025-10-04T05:49:29",
+                  "ruta": "/proyecto_demo/src/logs/utils/migrations.sql",
+                  "extension": "sql",
+                  "hijos": []
+                }
+              ]
+            },
+            {
+              "nombre": "downloads",
+              "tipo": "carpeta",
+              "tamaño": 19019513,
+              "fecha_modificacion": "2025-03-21T05:45:30",
+              "ruta": "/proyecto_demo/src/logs/downloads",
+              "extension": "",
+              "hijos": [
+                {
+                  "nombre": "seed.sql",
+                  "tipo": "archivo",
+                  "tamaño": 34306,
+                  "fecha_modificacion": "2025-01-29T13:53:39",
+                  "ruta": "/proyecto_demo/src/logs/downloads/seed.sql",
+                  "extension": "sql",
+                  "hijos": []
+                },
+                {
+                  "nombre": "helpers.py",
+                  "tipo": "archivo",
+                  "tamaño": 39552,
+                  "fecha_modificacion": "2025-04-24T19:15:52",
+                  "ruta": "/proyecto_demo/src/logs/downloads/helpers.py",
+                  "extension": "py",
+                  "hijos": []
+                },
+                {
+                  "nombre": "music.mp3",
+                  "tipo": "archivo",
+                  "tamaño": 18872115,
+                  "fecha_modificacion": "2025-07-20T00:25:04",
+                  "ruta": "/proyecto_demo/src/logs/downloads/music.mp3",
+                  "extension": "mp3",
+                  "hijos": []
+                },
+                {
+                  "nombre": "docker-compose.yml",
+                  "tipo": "archivo",
+                  "tamaño": 1038,
+                  "fecha_modificacion": "2025-11-29T19:33:01",
+                  "ruta": "/proyecto_demo/src/logs/downloads/docker-compose.yml",
+                  "extension": "yml",
+                  "hijos": []
+                },
+                {
+                  "nombre": "setup.py",
+                  "tipo": "archivo",
+                  "tamaño": 49709,
+                  "fecha_modificacion": "2024-09-30T23:20:12",
+                  "ruta": "/proyecto_demo/src/logs/downloads/setup.py",
+                  "extension": "py",
+                  "hijos": []
+                },
+                {
+                  "nombre": "views.py",
+                  "tipo": "archivo",
+                  "tamaño": 22793,
+                  "fecha_modificacion": "2024-04-24T10:41:09",
+                  "ruta": "/proyecto_demo/src/logs/downloads/views.py",
+                  "extension": "py",
+                  "hijos": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "views",
+          "tipo": "carpeta",
+          "tamaño": 186643529,
+          "fecha_modificacion": "2025-12-25T22:58:39",
+          "ruta": "/proyecto_demo/src/views",
+          "extension": "",
+          "hijos": [
+            {
+              "nombre": "chart.png",
+              "tipo": "archivo",
+              "tamaño": 1059805,
+              "fecha_modificacion": "2024-07-01T18:29:02",
+              "ruta": "/proyecto_demo/src/views/chart.png",
+              "extension": "png",
+              "hijos": []
+            },
+            {
+              "nombre": "routes.py",
+              "tipo": "archivo",
+              "tamaño": 7473,
+              "fecha_modificacion": "2025-10-02T10:51:57",
+              "ruta": "/proyecto_demo/src/views/routes.py",
+              "extension": "py",
+              "hijos": []
+            },
+            {
+              "nombre": "backup.zip",
+              "tipo": "archivo",
+              "tamaño": 171566698,
+              "fecha_modificacion": "2025-06-03T22:10:18",
+              "ruta": "/proyecto_demo/src/views/backup.zip",
+              "extension": "zip",
+              "hijos": []
+            },
+            {
+              "nombre": "presentacion.pptx",
+              "tipo": "archivo",
+              "tamaño": 6774349,
+              "fecha_modificacion": "2024-06-05T13:36:49",
+              "ruta": "/proyecto_demo/src/views/presentacion.pptx",
+              "extension": "pptx",
+              "hijos": []
+            },
+            {
+              "nombre": "public",
+              "tipo": "carpeta",
+              "tamaño": 327289,
+              "fecha_modificacion": "2025-07-16T06:00:43",
+              "ruta": "/proyecto_demo/src/views/public",
+              "extension": "",
+              "hijos": [
+                {
+                  "nombre": "wireframe.fig",
+                  "tipo": "archivo",
+                  "tamaño": 170951,
+                  "fecha_modificacion": "2025-05-15T00:42:32",
+                  "ruta": "/proyecto_demo/src/views/public/wireframe.fig",
+                  "extension": "fig",
+                  "hijos": []
+                },
+                {
+                  "nombre": "admin.py",
+                  "tipo": "archivo",
+                  "tamaño": 7831,
+                  "fecha_modificacion": "2025-01-06T11:11:46",
+                  "ruta": "/proyecto_demo/src/views/public/admin.py",
+                  "extension": "py",
+                  "hijos": []
+                },
+                {
+                  "nombre": "index.html",
+                  "tipo": "archivo",
+                  "tamaño": 33385,
+                  "fecha_modificacion": "2024-02-29T08:46:11",
+                  "ruta": "/proyecto_demo/src/views/public/index.html",
+                  "extension": "html",
+                  "hijos": []
+                },
+                {
+                  "nombre": "main.py",
+                  "tipo": "archivo",
+                  "tamaño": 37682,
+                  "fecha_modificacion": "2024-03-21T03:07:06",
+                  "ruta": "/proyecto_demo/src/views/public/main.py",
+                  "extension": "py",
+                  "hijos": []
+                },
+                {
+                  "nombre": "diagram.svg",
+                  "tipo": "archivo",
+                  "tamaño": 68699,
+                  "fecha_modificacion": "2024-03-11T19:23:42",
+                  "ruta": "/proyecto_demo/src/views/public/diagram.svg",
+                  "extension": "svg",
+                  "hijos": []
+                },
+                {
+                  "nombre": "constants.py",
+                  "tipo": "archivo",
+                  "tamaño": 8741,
+                  "fecha_modificacion": "2024-05-11T17:18:16",
+                  "ruta": "/proyecto_demo/src/views/public/constants.py",
+                  "extension": "py",
+                  "hijos": []
+                }
+              ]
+            },
+            {
+              "nombre": "templates",
+              "tipo": "carpeta",
+              "tamaño": 6662106,
+              "fecha_modificacion": "2025-04-07T04:24:20",
+              "ruta": "/proyecto_demo/src/views/templates",
+              "extension": "",
+              "hijos": [
+                {
+                  "nombre": "README.md",
+                  "tipo": "archivo",
+                  "tamaño": 17790,
+                  "fecha_modificacion": "2025-09-13T15:24:21",
+                  "ruta": "/proyecto_demo/src/views/templates/README.md",
+                  "extension": "md",
+                  "hijos": []
+                },
+                {
+                  "nombre": "requirements.txt",
+                  "tipo": "archivo",
+                  "tamaño": 3570,
+                  "fecha_modificacion": "2025-07-06T07:19:25",
+                  "ruta": "/proyecto_demo/src/views/templates/requirements.txt",
+                  "extension": "txt",
+                  "hijos": []
+                },
+                {
+                  "nombre": "database.sql",
+                  "tipo": "archivo",
+                  "tamaño": 374790,
+                  "fecha_modificacion": "2024-11-15T14:31:36",
+                  "ruta": "/proyecto_demo/src/views/templates/database.sql",
+                  "extension": "sql",
+                  "hijos": []
+                },
+                {
+                  "nombre": "data.csv",
+                  "tipo": "archivo",
+                  "tamaño": 6265956,
+                  "fecha_modificacion": "2025-03-24T18:50:39",
+                  "ruta": "/proyecto_demo/src/views/templates/data.csv",
+                  "extension": "csv",
+                  "hijos": []
+                }
+              ]
+            },
+            {
+              "nombre": "src",
+              "tipo": "carpeta",
+              "tamaño": 245809,
+              "fecha_modificacion": "2024-01-08T02:35:05",
+              "ruta": "/proyecto_demo/src/views/src",
+              "extension": "",
+              "hijos": [
+                {
+                  "nombre": "notas.txt",
+                  "tipo": "archivo",
+                  "tamaño": 3781,
+                  "fecha_modificacion": "2024-03-06T12:18:33",
+                  "ruta": "/proyecto_demo/src/views/src/notas.txt",
+                  "extension": "txt",
+                  "hijos": []
+                },
+                {
+                  "nombre": "factura.pdf",
+                  "tipo": "archivo",
+                  "tamaño": 226448,
+                  "fecha_modificacion": "2025-08-25T20:10:03",
+                  "ruta": "/proyecto_demo/src/views/src/factura.pdf",
+                  "extension": "pdf",
+                  "hijos": []
+                },
+                {
+                  "nombre": "app.py",
+                  "tipo": "archivo",
+                  "tamaño": 15580,
+                  "fecha_modificacion": "2025-08-25T08:01:04",
+                  "ruta": "/proyecto_demo/src/views/src/app.py",
+                  "extension": "py",
+                  "hijos": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "docs",
+      "tipo": "carpeta",
+      "tamaño": 8317692,
+      "fecha_modificacion": "2025-07-03T16:20:00",
+      "ruta": "/proyecto_demo/docs",
+      "extension": "",
+      "hijos": [
+        {
+          "nombre": "config.json",
+          "tipo": "archivo",
+          "tamaño": 4617,
+          "fecha_modificacion": "2024-02-02T12:01:49",
+          "ruta": "/proyecto_demo/docs/config.json",
+          "extension": "json",
+          "hijos": []
+        },
+        {
+          "nombre": "report.pdf",
+          "tipo": "archivo",
+          "tamaño": 644394,
+          "fecha_modificacion": "2025-06-10T08:39:55",
+          "ruta": "/proyecto_demo/docs/report.pdf",
+          "extension": "pdf",
+          "hijos": []
+        },
+        {
+          "nombre": "style.css",
+          "tipo": "archivo",
+          "tamaño": 19250,
+          "fecha_modificacion": "2025-11-16T17:40:24",
+          "ruta": "/proyecto_demo/docs/style.css",
+          "extension": "css",
+          "hijos": []
+        },
+        {
+          "nombre": "logo.png",
+          "tipo": "archivo",
+          "tamaño": 459287,
+          "fecha_modificacion": "2025-07-06T04:49:02",
+          "ruta": "/proyecto_demo/docs/logo.png",
+          "extension": "png",
+          "hijos": []
+        },
+        {
+          "nombre": "analysis.ipynb",
+          "tipo": "archivo",
+          "tamaño": 389245,
+          "fecha_modificacion": "2025-08-07T20:58:45",
+          "ruta": "/proyecto_demo/docs/analysis.ipynb",
+          "extension": "ipynb",
+          "hijos": []
+        },
+        {
+          "nombre": "controllers",
+          "tipo": "carpeta",
+          "tamaño": 30571,
+          "fecha_modificacion": "2025-04-23T01:58:20",
+          "ruta": "/proyecto_demo/docs/controllers",
+          "extension": "",
+          "hijos": [
+            {
+              "nombre": "utils.py",
+              "tipo": "archivo",
+              "tamaño": 6852,
+              "fecha_modificacion": "2025-11-05T15:41:38",
+              "ruta": "/proyecto_demo/docs/controllers/utils.py",
+              "extension": "py",
+              "hijos": []
+            },
+            {
+              "nombre": "test_main.py",
+              "tipo": "archivo",
+              "tamaño": 23719,
+              "fecha_modificacion": "2025-03-09T14:58:03",
+              "ruta": "/proyecto_demo/docs/controllers/test_main.py",
+              "extension": "py",
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "nombre": "audio",
+          "tipo": "carpeta",
+          "tamaño": 6770328,
+          "fecha_modificacion": "2024-07-15T06:55:31",
+          "ruta": "/proyecto_demo/docs/audio",
+          "extension": "",
+          "hijos": [
+            {
+              "nombre": "models.py",
+              "tipo": "archivo",
+              "tamaño": 4472,
+              "fecha_modificacion": "2025-02-16T12:21:13",
+              "ruta": "/proyecto_demo/docs/audio/models.py",
+              "extension": "py",
+              "hijos": []
+            },
+            {
+              "nombre": "banner.jpg",
+              "tipo": "archivo",
+              "tamaño": 6765856,
+              "fecha_modificacion": "2024-04-21T09:03:11",
+              "ruta": "/proyecto_demo/docs/audio/banner.jpg",
+              "extension": "jpg",
+              "hijos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "tests",
+      "tipo": "carpeta",
+      "tamaño": 224274196,
+      "fecha_modificacion": "2024-01-03T14:12:53",
+      "ruta": "/proyecto_demo/tests",
+      "extension": "",
+      "hijos": [
+        {
+          "nombre": "script.js",
+          "tipo": "archivo",
+          "tamaño": 37747,
+          "fecha_modificacion": "2025-03-08T06:40:50",
+          "ruta": "/proyecto_demo/tests/script.js",
+          "extension": "js",
+          "hijos": []
+        },
+        {
+          "nombre": "serializers.py",
+          "tipo": "archivo",
+          "tamaño": 18754,
+          "fecha_modificacion": "2025-04-18T09:05:42",
+          "ruta": "/proyecto_demo/tests/serializers.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "Dockerfile",
+          "tipo": "archivo",
+          "tamaño": 895,
+          "fecha_modificacion": "2024-03-18T16:08:02",
+          "ruta": "/proyecto_demo/tests/Dockerfile",
+          "extension": "",
+          "hijos": []
+        },
+        {
+          "nombre": "middleware.py",
+          "tipo": "archivo",
+          "tamaño": 36566,
+          "fecha_modificacion": "2024-04-10T01:50:30",
+          "ruta": "/proyecto_demo/tests/middleware.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "schema.json",
+          "tipo": "archivo",
+          "tamaño": 42938,
+          "fecha_modificacion": "2025-07-07T00:32:14",
+          "ruta": "/proyecto_demo/tests/schema.json",
+          "extension": "json",
+          "hijos": []
+        },
+        {
+          "nombre": "foto_viaje.jpg",
+          "tipo": "archivo",
+          "tamaño": 832344,
+          "fecha_modificacion": "2024-08-30T06:03:18",
+          "ruta": "/proyecto_demo/tests/foto_viaje.jpg",
+          "extension": "jpg",
+          "hijos": []
+        },
+        {
+          "nombre": "video_intro.mp4",
+          "tipo": "archivo",
+          "tamaño": 223191887,
+          "fecha_modificacion": "2025-05-12T17:31:32",
+          "ruta": "/proyecto_demo/tests/video_intro.mp4",
+          "extension": "mp4",
+          "hijos": []
+        },
+        {
+          "nombre": "migrations.sql",
+          "tipo": "archivo",
+          "tamaño": 113065,
+          "fecha_modificacion": "2025-02-14T02:08:05",
+          "ruta": "/proyecto_demo/tests/migrations.sql",
+          "extension": "sql",
+          "hijos": []
+        }
+      ]
+    },
+    {
+      "nombre": "assets",
+      "tipo": "carpeta",
+      "tamaño": 46591682,
+      "fecha_modificacion": "2024-11-17T02:04:52",
+      "ruta": "/proyecto_demo/assets",
+      "extension": "",
+      "hijos": [
+        {
+          "nombre": "seed.sql",
+          "tipo": "archivo",
+          "tamaño": 140042,
+          "fecha_modificacion": "2025-04-10T10:23:08",
+          "ruta": "/proyecto_demo/assets/seed.sql",
+          "extension": "sql",
+          "hijos": []
+        },
+        {
+          "nombre": "helpers.py",
+          "tipo": "archivo",
+          "tamaño": 28222,
+          "fecha_modificacion": "2025-12-14T20:14:05",
+          "ruta": "/proyecto_demo/assets/helpers.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "music.mp3",
+          "tipo": "archivo",
+          "tamaño": 46417431,
+          "fecha_modificacion": "2025-05-13T05:38:09",
+          "ruta": "/proyecto_demo/assets/music.mp3",
+          "extension": "mp3",
+          "hijos": []
+        },
+        {
+          "nombre": "docker-compose.yml",
+          "tipo": "archivo",
+          "tamaño": 1655,
+          "fecha_modificacion": "2024-10-30T07:55:34",
+          "ruta": "/proyecto_demo/assets/docker-compose.yml",
+          "extension": "yml",
+          "hijos": []
+        },
+        {
+          "nombre": "setup.py",
+          "tipo": "archivo",
+          "tamaño": 4332,
+          "fecha_modificacion": "2025-08-16T19:44:26",
+          "ruta": "/proyecto_demo/assets/setup.py",
+          "extension": "py",
+          "hijos": []
+        }
+      ]
+    },
+    {
+      "nombre": "data",
+      "tipo": "carpeta",
+      "tamaño": 53597657,
+      "fecha_modificacion": "2025-08-31T01:26:49",
+      "ruta": "/proyecto_demo/data",
+      "extension": "",
+      "hijos": [
+        {
+          "nombre": "views.py",
+          "tipo": "archivo",
+          "tamaño": 3786,
+          "fecha_modificacion": "2025-08-21T17:21:33",
+          "ruta": "/proyecto_demo/data/views.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "chart.png",
+          "tipo": "archivo",
+          "tamaño": 1064553,
+          "fecha_modificacion": "2025-06-27T05:43:55",
+          "ruta": "/proyecto_demo/data/chart.png",
+          "extension": "png",
+          "hijos": []
+        },
+        {
+          "nombre": "routes.py",
+          "tipo": "archivo",
+          "tamaño": 4227,
+          "fecha_modificacion": "2025-06-04T02:55:00",
+          "ruta": "/proyecto_demo/data/routes.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "backup.zip",
+          "tipo": "archivo",
+          "tamaño": 49932009,
+          "fecha_modificacion": "2024-03-11T21:39:52",
+          "ruta": "/proyecto_demo/data/backup.zip",
+          "extension": "zip",
+          "hijos": []
+        },
+        {
+          "nombre": "presentacion.pptx",
+          "tipo": "archivo",
+          "tamaño": 2380388,
+          "fecha_modificacion": "2025-11-22T08:33:48",
+          "ruta": "/proyecto_demo/data/presentacion.pptx",
+          "extension": "pptx",
+          "hijos": []
+        },
+        {
+          "nombre": "wireframe.fig",
+          "tipo": "archivo",
+          "tamaño": 212694,
+          "fecha_modificacion": "2024-05-02T20:44:28",
+          "ruta": "/proyecto_demo/data/wireframe.fig",
+          "extension": "fig",
+          "hijos": []
+        }
+      ]
+    },
+    {
+      "nombre": "config",
+      "tipo": "carpeta",
+      "tamaño": 233609,
+      "fecha_modificacion": "2024-09-28T14:24:36",
+      "ruta": "/proyecto_demo/config",
+      "extension": "",
+      "hijos": [
+        {
+          "nombre": "admin.py",
+          "tipo": "archivo",
+          "tamaño": 41091,
+          "fecha_modificacion": "2024-03-24T15:15:48",
+          "ruta": "/proyecto_demo/config/admin.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "index.html",
+          "tipo": "archivo",
+          "tamaño": 78503,
+          "fecha_modificacion": "2025-08-01T19:02:02",
+          "ruta": "/proyecto_demo/config/index.html",
+          "extension": "html",
+          "hijos": []
+        },
+        {
+          "nombre": "main.py",
+          "tipo": "archivo",
+          "tamaño": 21233,
+          "fecha_modificacion": "2024-09-24T07:26:12",
+          "ruta": "/proyecto_demo/config/main.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "diagram.svg",
+          "tipo": "archivo",
+          "tamaño": 92782,
+          "fecha_modificacion": "2024-11-17T08:41:25",
+          "ruta": "/proyecto_demo/config/diagram.svg",
+          "extension": "svg",
+          "hijos": []
+        }
+      ]
+    },
+    {
+      "nombre": "scripts",
+      "tipo": "carpeta",
+      "tamaño": 2954849,
+      "fecha_modificacion": "2025-09-18T23:48:37",
+      "ruta": "/proyecto_demo/scripts",
+      "extension": "",
+      "hijos": [
+        {
+          "nombre": "constants.py",
+          "tipo": "archivo",
+          "tamaño": 9077,
+          "fecha_modificacion": "2025-11-18T23:30:07",
+          "ruta": "/proyecto_demo/scripts/constants.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "README.md",
+          "tipo": "archivo",
+          "tamaño": 10330,
+          "fecha_modificacion": "2025-04-13T11:30:41",
+          "ruta": "/proyecto_demo/scripts/README.md",
+          "extension": "md",
+          "hijos": []
+        },
+        {
+          "nombre": "requirements.txt",
+          "tipo": "archivo",
+          "tamaño": 1288,
+          "fecha_modificacion": "2024-01-10T16:41:08",
+          "ruta": "/proyecto_demo/scripts/requirements.txt",
+          "extension": "txt",
+          "hijos": []
+        },
+        {
+          "nombre": "database.sql",
+          "tipo": "archivo",
+          "tamaño": 326666,
+          "fecha_modificacion": "2025-07-30T03:38:24",
+          "ruta": "/proyecto_demo/scripts/database.sql",
+          "extension": "sql",
+          "hijos": []
+        },
+        {
+          "nombre": "data.csv",
+          "tipo": "archivo",
+          "tamaño": 1230110,
+          "fecha_modificacion": "2025-07-04T07:45:38",
+          "ruta": "/proyecto_demo/scripts/data.csv",
+          "extension": "csv",
+          "hijos": []
+        },
+        {
+          "nombre": "utils",
+          "tipo": "carpeta",
+          "tamaño": 1377378,
+          "fecha_modificacion": "2025-12-21T11:00:51",
+          "ruta": "/proyecto_demo/scripts/utils",
+          "extension": "",
+          "hijos": [
+            {
+              "nombre": "notas.txt",
+              "tipo": "archivo",
+              "tamaño": 4102,
+              "fecha_modificacion": "2025-01-13T10:22:33",
+              "ruta": "/proyecto_demo/scripts/utils/notas.txt",
+              "extension": "txt",
+              "hijos": []
+            },
+            {
+              "nombre": "factura.pdf",
+              "tipo": "archivo",
+              "tamaño": 1373276,
+              "fecha_modificacion": "2025-03-24T19:46:40",
+              "ruta": "/proyecto_demo/scripts/utils/factura.pdf",
+              "extension": "pdf",
+              "hijos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "reports",
+      "tipo": "carpeta",
+      "tamaño": 1290807,
+      "fecha_modificacion": "2024-10-15T22:01:16",
+      "ruta": "/proyecto_demo/reports",
+      "extension": "",
+      "hijos": [
+        {
+          "nombre": "app.py",
+          "tipo": "archivo",
+          "tamaño": 35164,
+          "fecha_modificacion": "2024-01-09T20:11:32",
+          "ruta": "/proyecto_demo/reports/app.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "config.json",
+          "tipo": "archivo",
+          "tamaño": 19820,
+          "fecha_modificacion": "2025-11-10T03:46:17",
+          "ruta": "/proyecto_demo/reports/config.json",
+          "extension": "json",
+          "hijos": []
+        },
+        {
+          "nombre": "report.pdf",
+          "tipo": "archivo",
+          "tamaño": 1176515,
+          "fecha_modificacion": "2024-09-27T04:12:09",
+          "ruta": "/proyecto_demo/reports/report.pdf",
+          "extension": "pdf",
+          "hijos": []
+        },
+        {
+          "nombre": "style.css",
+          "tipo": "archivo",
+          "tamaño": 59308,
+          "fecha_modificacion": "2024-04-19T20:08:32",
+          "ruta": "/proyecto_demo/reports/style.css",
+          "extension": "css",
+          "hijos": []
+        }
+      ]
+    },
+    {
+      "nombre": "logs",
+      "tipo": "carpeta",
+      "tamaño": 859619,
+      "fecha_modificacion": "2025-03-09T10:04:25",
+      "ruta": "/proyecto_demo/logs",
+      "extension": "",
+      "hijos": [
+        {
+          "nombre": "logo.png",
+          "tipo": "archivo",
+          "tamaño": 451722,
+          "fecha_modificacion": "2024-12-17T07:24:45",
+          "ruta": "/proyecto_demo/logs/logo.png",
+          "extension": "png",
+          "hijos": []
+        },
+        {
+          "nombre": "analysis.ipynb",
+          "tipo": "archivo",
+          "tamaño": 370446,
+          "fecha_modificacion": "2025-10-11T09:36:40",
+          "ruta": "/proyecto_demo/logs/analysis.ipynb",
+          "extension": "ipynb",
+          "hijos": []
+        },
+        {
+          "nombre": "utils.py",
+          "tipo": "archivo",
+          "tamaño": 33622,
+          "fecha_modificacion": "2025-05-15T09:08:34",
+          "ruta": "/proyecto_demo/logs/utils.py",
+          "extension": "py",
+          "hijos": []
+        },
+        {
+          "nombre": "test_main.py",
+          "tipo": "archivo",
+          "tamaño": 3829,
+          "fecha_modificacion": "2024-04-04T23:05:36",
+          "ruta": "/proyecto_demo/logs/test_main.py",
+          "extension": "py",
+          "hijos": []
+        }
+      ]
+    }
+  ]
+}

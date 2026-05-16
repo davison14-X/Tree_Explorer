@@ -1,14 +1,16 @@
-# 🌳 Tree Explorer — Analizador de Archivos
+# Tree Explorer — Analizador de Archivos
 
-Proyecto universitario desarrollado en Python para explorar y analizar la estructura de archivos y directorios del sistema operativo. Utiliza un **árbol N-ario** como estructura de datos principal e implementa los algoritmos **DFS** y **BFS** para recorridos y búsquedas.
+Proyecto desarrollado en Python para explorar y analizar la estructura de archivos y directorios del sistema operativo o Importacion desde un archivo (.JSON). Utiliza un **árbol N-ario** como estructura de datos principal e implementa los algoritmos **DFS** y **BFS** para recorridos y búsquedas.
 
 > Desarrollado para DPAS 3 — Politécnico Colombiano Jaime Isaza Cadavid
+> Davison Jaramillo Gonzalez
+> Jose Luis Grajales Cuervo
 
 ---
 
 ## ¿Qué hace?
 
-El programa permite cargar cualquier carpeta del sistema y representarla como un árbol jerárquico. Desde una interfaz de consola interactiva, el usuario puede:
+El programa permite cargar cualquier carpeta del sistema y representarla como un árbol jerárquico. En el cuel el usuario puede:
 
 - Visualizar la estructura de carpetas y archivos con recorrido DFS (profundidad) o BFS (por niveles)
 - Buscar archivos por nombre, extensión, tamaño o combinación de filtros
@@ -24,7 +26,7 @@ El programa permite cargar cualquier carpeta del sistema y representarla como un
 ```
 Tree_Explorer/
 ├── Main.py               # Punto de entrada y menú interactivo
-├── NodoArchivo.py        # Clase que representa cada nodo del árbol (archivo o carpeta)
+├── NodoArchivo.py        # Clase que representa cada nodo del árbol (archivo -> Hoja o carpeta -> Padre)
 ├── ArbolArchivos.py      # Árbol N-ario con implementación de DFS y BFS
 ├── BuscadorArchivos.py   # Motor de búsqueda con múltiples filtros
 ├── Analizador.py         # Estadísticas, reportes y detección de duplicados

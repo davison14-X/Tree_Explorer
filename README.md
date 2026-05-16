@@ -94,3 +94,5 @@ No se requiere instalar dependencias externas.
 - Hashing MD5 para detección de duplicados
 - Serialización de árboles a JSON
 - Medición estadística de rendimiento (min, max, promedio, mediana)
+
+##PROYECTO REALIZADO CON LA AYUDA DE CLAUDE.AI
